@@ -1,15 +1,15 @@
 # CashAppPython
 CashApp application on Python (Terminal Mode)
-Also Using the MongoDB Compass Database -> NoSQL Database
-I created the simulated info (I tried to make it as logical as possible)
-The info used are on the JSON files in the Collections folder
+ - Also Using the MongoDB Compass Database -> NoSQL Database
+ - I created the simulated info (I tried to make it as logical as possible)
+ - The info used are on the JSON files in the Collections folder
 
 COMMAND TO RUN:
-  FOR SERVER: 
-  python (SERVER_FOLDER_PATH)/Start.py
+  - FOR SERVER: 
+    python (SERVER_FOLDER_PATH)/Start.py
   
-  FOR CLIENT: 
-  python (CLIENT_FOLDER_PATH)/Start.py
+  - FOR CLIENT: 
+    python (CLIENT_FOLDER_PATH)/Start.py
 
 APP CAPABILITIES:
  - Create an account
